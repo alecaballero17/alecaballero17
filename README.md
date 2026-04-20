@@ -1,16 +1,117 @@
-## Hi there 👋
+<h1 align="center">Alejandro Caballero 👨‍💻</h1>
+<h3 align="center">Full Stack Developer | Django & React | Backend Focus</h3>
 
-<!--
-**alecaballero17/alecaballero17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Construyendo sistemas reales con backend, frontend y bases de datos.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+%7C+React;Backend+Focused;Building+Real+Systems&center=true&width=700&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+## 🚀 Sobre mí
+
+* 🎓 Ingeniería Informática - UAGRM
+* 💻 Enfocado en Backend, Arquitectura y Bases de Datos
+* 🧠 Desarrollo sistemas completos (Frontend + Backend + DB)
+* ⚙️ Stack principal: Django, React, PostgreSQL
+* 📈 En constante aprendizaje de nuevas tecnologías
+* 🍪 Aplico software en negocio real (Dulcebocatto)
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,postgres,bootstrap,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🚀 Proyectos Principales
+
+### 🚑 Plataforma Inteligente de Emergencias
+
+🔗 https://github.com/alecaballero17/emergencias-vehiculares
+
+Sistema enfocado en la gestión y priorización de emergencias vehiculares.
+
+* Backend estructurado con lógica de decisión
+* Enfoque en escalabilidad
+* Base para integración futura con IA
+* Pensado para aplicaciones en tiempo real
+
+---
+
+### 🧠 PsicoSystem
+
+🔗 https://github.com/alecaballero17/PsicoSystem_SI2
+
+Sistema de gestión enfocado en procesos psicológicos y administrativos.
+
+* Modelado del sistema con UML y PUDS
+* Organización de procesos y lógica de negocio
+* Backend estructurado
+* Proyecto académico con enfoque profesional
+
+---
+
+### 🍪 DulceBocatto
+
+🔗 https://github.com/alecaballero17/DulceBocattoSI1
+
+Sistema aplicado a negocio real.
+
+* Gestión de productos, ventas y operación
+* Implementación Full Stack
+* Aplicación directa en emprendimiento real
+* Enfoque en solución práctica
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecaballero17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecaballero17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alecaballero17&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Actualmente
+
+* 🚑 Desarrollando sistemas más cercanos a producción
+* 📚 Mejorando arquitectura backend y bases de datos
+* 🧩 Fortaleciendo frontend con React
+
+---
+
+## 🧠 Objetivos 2026
+
+* 🔥 Construir sistemas más completos (tipo ERP / plataformas reales)
+* 📈 Mejorar arquitectura y escalabilidad
+* 🚀 Tener un portafolio sólido para oportunidades profesionales
+
+---
+
+## 🌐 Conecta conmigo
+
+<p align="left">
+  <a href="https://github.com/alecaballero17">
+    <img src="https://img.shields.io/badge/GitHub-alecaballero17-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alecaballero17&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
+</p>
