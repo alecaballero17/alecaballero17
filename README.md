@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack Developer | Django & React | Backend Focus</h3>
 
 <p align="center">
+  <b>Santa Cruz, Bolivia 🇧🇴</b>
+</p>
+
+<p align="center">
 Construyendo sistemas reales con backend, frontend y bases de datos.
 </p>
 
@@ -38,12 +42,14 @@ Construyendo sistemas reales con backend, frontend y bases de datos.
 
 🔗 https://github.com/alecaballero17/emergencias-vehiculares
 
-Sistema enfocado en la gestión y priorización de emergencias vehiculares.
+Sistema orientado a la gestión y priorización de emergencias vehiculares.
 
-* Backend estructurado con lógica de decisión
-* Enfoque en escalabilidad
+**Stack:** Django / PostgreSQL
+**Enfoque:** Backend + lógica de decisión
+
+* Arquitectura pensada para escalabilidad
 * Base para integración futura con IA
-* Pensado para aplicaciones en tiempo real
+* Orientado a sistemas en tiempo real
 
 ---
 
@@ -53,9 +59,11 @@ Sistema enfocado en la gestión y priorización de emergencias vehiculares.
 
 Sistema de gestión enfocado en procesos psicológicos y administrativos.
 
-* Modelado del sistema con UML y PUDS
+**Stack:** Django / PostgreSQL
+**Enfoque:** Backend + modelado de sistemas
+
+* Modelado completo con UML y PUDS
 * Organización de procesos y lógica de negocio
-* Backend estructurado
 * Proyecto académico con enfoque profesional
 
 ---
@@ -66,8 +74,10 @@ Sistema de gestión enfocado en procesos psicológicos y administrativos.
 
 Sistema aplicado a negocio real.
 
+**Stack:** Django / React / PostgreSQL
+**Enfoque:** Full Stack
+
 * Gestión de productos, ventas y operación
-* Implementación Full Stack
 * Aplicación directa en emprendimiento real
 * Enfoque en solución práctica
 
@@ -96,7 +106,7 @@ Sistema aplicado a negocio real.
 
 ## 🧠 Objetivos 2026
 
-* 🔥 Construir sistemas más completos (tipo ERP / plataformas reales)
+* 🔥 Construir sistemas más completos (ERP / plataformas reales)
 * 📈 Mejorar arquitectura y escalabilidad
 * 🚀 Tener un portafolio sólido para oportunidades profesionales
 
