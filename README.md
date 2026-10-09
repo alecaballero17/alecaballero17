@@ -8,8 +8,8 @@
   <a href="https://github.com/alecaballero17?tab=repositories">
     <img src="https://img.shields.io/badge/Explorar_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios">
   </a>
-  <a href="mailto:alecaballeropereira@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Alejandro Caballero">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=alecaballeropereira%40gmail.com">
+    <img src="https://img.shields.io/badge/Escribirme_por_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Redactar un correo para Alejandro Caballero en Gmail">
   </a>
 </p>
 
@@ -48,7 +48,51 @@ Soy **Alejandro Caballero**, estudiante de Ingeniería Informática en la **UAGR
 
 ---
 
+## 🧭 Lo que construyo
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌐 Sistemas completos</h3>
+      <p>Aplicaciones web y móviles con APIs, autenticación, lógica de negocio y persistencia de datos.</p>
+      <sub>FastAPI · Django · .NET · React · Angular · Flutter</sub>
+    </td>
+    <td width="50%" align="center">
+      <h3>🗺️ Datos que se pueden explorar</h3>
+      <p>Visores geográficos, consultas espaciales y experiencias para descubrir información en un mapa.</p>
+      <sub>Leaflet · GeoJSON · SQL Server · Shapefiles</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎮 Experiencias interactivas</h3>
+      <p>Escenarios 3D, visualización en tiempo real, mecánicas de interacción e interfaces de juego.</p>
+      <sub>Java · LWJGL · OpenGL · GLSL</sub>
+    </td>
+    <td width="50%" align="center">
+      <h3>🧠 IA con propósito</h3>
+      <p>Asistentes, automatización, análisis multimodal y generación de soluciones a partir de datos.</p>
+      <sub>FastAPI · APIs de IA · OCR · Voz · WebSockets</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Proyectos que vale la pena explorar
+
+### Una muestra visual
+
+<p align="center">
+  <a href="https://github.com/alecaballero17/ciudad-interactiva-opengl">
+    <img width="49%" src="https://raw.githubusercontent.com/alecaballero17/ciudad-interactiva-opengl/main/assets/ciudad-santa-cruz-hero.png" alt="Ciudad Interactiva OpenGL inspirada en Santa Cruz de la Sierra">
+  </a>
+  <a href="https://github.com/alecaballero17/visor-datos-sig">
+    <img width="49%" src="https://raw.githubusercontent.com/alecaballero17/visor-datos-sig/main/assets/arquis-hero.png" alt="Arquis, visor de datos SIG">
+  </a>
+</p>
+
+<p align="center"><sub>Haz clic en cada imagen para abrir el repositorio correspondiente.</sub></p>
 
 <p align="center">
   <a href="https://github.com/alecaballero17/ciudad-interactiva-opengl">
@@ -111,6 +155,14 @@ Soy **Alejandro Caballero**, estudiante de Ingeniería Informática en la **UAGR
 
 <p align="center">
   <i>"Las mejores soluciones aparecen cuando la tecnología se conecta con una necesidad real."</i><br><br>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=alecaballeropereira%40gmail.com">
+    <img src="https://img.shields.io/badge/Contactar_por_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar a Alejandro por Gmail">
+  </a>
+  <a href="mailto:alecaballeropereira@gmail.com">
+    <img src="https://img.shields.io/badge/Email_directo-alecaballeropereira%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: alecaballeropereira@gmail.com">
+  </a>
+  <br><br>
+  <code>alecaballeropereira@gmail.com</code><br><br>
   <a href="https://github.com/alecaballero17">
     <img src="https://komarev.com/ghpvc/?username=alecaballero17&label=Visitas%20al%20perfil&color=38BDF8&style=flat" alt="Visitas al perfil de Alejandro Caballero">
   </a>
